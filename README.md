@@ -88,7 +88,7 @@ vim .env # fill up the ENVs (Steps: press i to enter in insert mode then edit th
 python3 main.py # run the bot.
 
 # continue the host with screen or anything else, thanks for reading.
-```
+``
 
 # Credits 💖
 
